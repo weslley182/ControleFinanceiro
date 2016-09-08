@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financeiro", "Financeiro\Financeiro.csproj", "{08FD1C9B-842D-40A8-BF01-F2393F7EBF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceiroTests", "FinanceiroTests\FinanceiroTests.csproj", "{E3A329D5-7D2E-4FBD-A53C-FF9E30DBD148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FD1C9B-842D-40A8-BF01-F2393F7EBF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FD1C9B-842D-40A8-BF01-F2393F7EBF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FD1C9B-842D-40A8-BF01-F2393F7EBF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FD1C9B-842D-40A8-BF01-F2393F7EBF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A329D5-7D2E-4FBD-A53C-FF9E30DBD148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A329D5-7D2E-4FBD-A53C-FF9E30DBD148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A329D5-7D2E-4FBD-A53C-FF9E30DBD148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A329D5-7D2E-4FBD-A53C-FF9E30DBD148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
