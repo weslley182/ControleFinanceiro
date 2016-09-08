@@ -50,3 +50,10 @@ D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\obj\Debug\Financeiro.dll
 D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
 D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\obj\Debug\Financeiro.Migrations.TabelasIniciais.resources
 D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.GenerateResource.Cache
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.dll
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.Web.Common.dll
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.Web.Mvc.dll
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\WebActivatorEx.dll
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.xml
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.Web.Common.xml
+D:\BACKUP\Projetos\DOTNET\Financeiro\Financeiro\bin\Ninject.Web.Mvc.xml
