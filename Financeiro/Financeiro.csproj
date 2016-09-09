@@ -167,8 +167,10 @@
     <Compile Include="App_Start\NinjectWebCommon.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MovimentacaoController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Dao\FinancasContext.cs" />
+    <Compile Include="Dao\MovimentacaoDao.cs" />
     <Compile Include="Dao\UsuarioDao.cs" />
     <Compile Include="Entidades\Movimentacao.cs" />
     <Compile Include="Entidades\Tipo.cs" />
@@ -196,6 +198,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Movimentacao\Form.cshtml" />
+    <Content Include="Views\Movimentacao\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
